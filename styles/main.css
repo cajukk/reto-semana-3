@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+    margin-bottom: 20px;
+}
+h2{
+padding:20px;
+}
+
+.nombre, .apellido, .email, .telefono {
+padding:15px
+}
+.formbg{
+    background-color:#56b3d2;
+}
